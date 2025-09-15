@@ -29,13 +29,6 @@ Herramientas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-📂 Proyectos Destacados
-
-Aquí hay algunos de mis proyectos más relevantes:
-
-- [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1)** - Descripción breve del proyecto, tecnologías utilizadas (ej: API REST con Spring Boot, JPA, MySQL).
-- [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2)** - Descripción breve del proyecto, tecnologías utilizadas.
-- [Nombre del Proyecto 3](https://github.com/tuusuario/proyecto3)** - Descripción breve del proyecto, tecnologías utilizadas.
 
 📊 Mis Estadísticas en GitHub
 
